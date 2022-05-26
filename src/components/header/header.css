@@ -42,13 +42,19 @@ header {
     width: 35%;
     margin: auto;
     display: flex;
+    
 }
 
 .logo{
-  display: block;
-  margin-left: auto;
+  
+  width: 30.5rem;
   margin-right: auto;
-  width: 30%;
+  display: flex;
+  margin-left: auto;
+  align-items: center;
+  
+  
+
 }
 
 

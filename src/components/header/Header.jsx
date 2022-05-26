@@ -1,18 +1,18 @@
 import React from "react";
 import "./header.css";
 import CTA from "./CTA";
-import logo from "../../assets/logo.png";
-import HeaderSocial from "./HeaderSocials";
-import test from '../../assets/test.png';
+import test2 from "../../assets/test2.png";
+
 
 
 const Header = () => {
   return (
     <header>
       <div className="container header__container">
-        <h3>Apresentamos o </h3>
-
-        <img className="logo" src={logo} alt="logo" />
+        <h1>Apresentamos o </h1>
+          <div>
+          <img className="logo" src={test2} alt="logo" />
+          </div>
 
         <h1> </h1>
 
@@ -20,7 +20,7 @@ const Header = () => {
        
 
         <div className="me"></div>
-        <img className="me" src={test} alt="me" />
+        
 
 
         <a href="#contact" className="scroll__down">
