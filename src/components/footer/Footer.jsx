@@ -5,7 +5,7 @@ import './footer.css'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>OneStop Soluções</a>
+      <a href="http://home.onestopsolucoes.com.br/" className='footer__logo'>OneStop Soluções</a>
 
       <ul className='permalinks'>
         <li><a href="#">Home</a></li>

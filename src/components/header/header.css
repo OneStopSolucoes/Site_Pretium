@@ -12,10 +12,15 @@ header {
 
 /* =============== CTA ============== */
 .cta {
-  margin-top: 2.5rem;
+  margin-top: -6.5rem;
   display: flex;
-  gap: 1.2rem;
-  justify-content: center;
+  justify-content: flex-end;
+  width: 98%;
+}
+
+.cta__botaoLogin{
+  margin-top: 0%;
+
 }
 
 
@@ -57,6 +62,9 @@ header {
 
 }
 
+.botaoLogin{
+  justify-content: flex-end;
+}
 
 /* =============== SCROLL DOWN ============== */
 .scroll__down {

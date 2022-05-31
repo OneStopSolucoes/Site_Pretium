@@ -26,7 +26,13 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <small className='text-light'>Comece a usar rapidamente sem necessidade de desenvolvimento ou de terceiros.</small>
+                <small className='text-light'>Comece a usar rapidamente sem necessidade de desenvolvimento ou de terceiros</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <small className='text-light'>Agilidade e assertividade para você economizar tempo e dinheiro</small>
               </div>
             </article>
 
